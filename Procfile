@@ -1,1 +1,1 @@
-web: sh -c 'cd ./web-gui/ && ./startup.sh'
+web: ./startup.sh
