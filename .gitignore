@@ -2,7 +2,6 @@
 *.db
 *.rdb
 *.log
-*.txt
 *.pcap
 *.avi
 .vscode/
