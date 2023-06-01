@@ -1,1 +1,1 @@
-web: sh -c './get-docker.sh ./startup.sh'
+web: sh -c './startup.sh'
